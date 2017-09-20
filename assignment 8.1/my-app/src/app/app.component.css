@@ -1,0 +1,9 @@
+/* App component template styles */
+
+section h1 {
+  display: none;
+}
+
+form {
+  margin: 50px 0 50px 0;
+}
